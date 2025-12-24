@@ -1,0 +1,5 @@
+{
+  "name": "Pescaronha OS",
+  "description": "A MicroSaaS for sales management featuring an Apple-inspired design system, CSV lead processing, and localized data persistence.",
+  "requestFramePermissions": []
+}
